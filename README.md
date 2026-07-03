@@ -36,7 +36,7 @@ Building from first principles across 17 sections:
 
 ## How to run
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([<your-colab-link-here>](https://colab.research.google.com/github/Maitreya-Bhatkhande/neural-network-from-scratch-numpy/blob/main/nn_from_scrath.ipynb))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maitreya-Bhatkhande/neural-network-from-scratch-numpy/blob/main/nn_from_scrath.ipynb)
 
 Or clone locally and open the notebook in Jupyter — requires only NumPy (and optionally CuPy for GPU acceleration).
 
